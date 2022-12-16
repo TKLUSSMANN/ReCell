@@ -6,4 +6,4 @@ Analyzed a used devices dataset, built a model which helped develop a dynamic pr
 **Key Skills**: 
 EDA, Linear Regression, Linear Regression assumptions, Business insights and recommendations, Supervised Learning
 
-[View My Project](https://github.com/TKLUSSMANN/FoodHubDataAnalysis/blob/main/Klussmann_FoodHubDataAnalysis_PythonFoundations.ipynb)
+[View My Project](https://github.com/TKLUSSMANN/ReCell/blob/main/Klussmann_ReCell_SupervisedLearningRegression.ipynb)
